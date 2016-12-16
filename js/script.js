@@ -85,7 +85,7 @@ $(document).ready(function(){
 					$('#pic').css('background-image','url(img/1.png)')
 				} else if(state == '雨'){
 					$('#pic').css('background-image','url(img/2.png)')
-				} else if(state == '阴'){
+				} else if(state == '多云'){
 					$('#pic').css('background-image','url(img/3.png)')
 				}
 		
