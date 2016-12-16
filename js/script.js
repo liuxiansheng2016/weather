@@ -16,7 +16,7 @@ $(document).ready(function(){
 			url:'https://free-api.heweather.com/v5/forecast',
 			type:'GET',
 			dataType:'json',
-			data:{key:'3ac44d1e27dd4922b48ce4cd68d41dd2',city:City}
+			data:{key:'d70ef2f8d1c948e8bf3c9527aafc0dc9',city:City}
 		})
 		.done(function(data){
 			var basic = data.HeWeather5[0].basic;
