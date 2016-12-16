@@ -87,7 +87,7 @@ $(document).ready(function(){
 					$('#pic').css('background-image','url(img/2.png)')
 				} else if(state == '多云'){
 					$('#pic').css('background-image','url(img/3.png)')
-				}
+				} 
 		
 			});
 		
